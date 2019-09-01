@@ -6,5 +6,6 @@ public class Main {
         int myNr = 10 ;
         System.out.println(myNr);
         System.out.println("test");
+        System.out.println("New String");
     }
 }
